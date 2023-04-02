@@ -10,6 +10,8 @@ For those who are new to using midjourney, you can use these prompts to generate
 我不定期会爬取图片和prompt打包传上来，网友们有需要的话我也会上传爬虫代码
 I will periodically crawl and package these images and prompts and upload them. If there are any users who need them, I can also upload the web crawler code.
 
+![image](https://user-images.githubusercontent.com/32754688/229363650-94a7388a-559a-466e-93c8-a1e5fc4cad58.png)
+![image](https://user-images.githubusercontent.com/32754688/229363671-58498a63-144b-4ac6-9fa1-fb10ccdecb00.png)
 
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 我个人最喜欢的就是这张赛博朋克大卫，附上图片和prompt
