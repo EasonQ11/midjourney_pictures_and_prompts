@@ -1,9 +1,9 @@
 # midjourney_pictures_and_prompts
 
-这是用爬虫从midjourney上下载下来的评分较高的图片，和整理成xls格式的图片信息，包括图片的关键词prompt、图片得分hot_score，作者id、作者姓名等。
+这是用爬虫从midjourney上下载下来的评分较高的图片，一共100张，和整理成xls格式的图片信息，包括图片的关键词prompt、图片得分hot_score，作者id、作者姓名等。图片编号与图片名称一一对应，方便查找。
 初使用midjourney的小伙伴可以利用这些prompt来生成自己的图片，不用再烦恼该怎么写词了。咒语已经生成，少年，魔法世界在等着你。
 
-This is a collection of highly rated images and their information, including the image's keyword prompt, hot_score rating, author ID, and author name. These were downloaded from midjourney using a web crawler and organized into an xls format.
+This is a collection of highly rated images and their information, a total of 100 images, including the image's keyword prompt, hot_score rating, author ID, and author name. These were downloaded from midjourney using a web crawler and organized into an xls format.The image numbers correspond one-to-one with the image names, making it easy to search for them
 
 For those who are new to using midjourney, you can use these prompts to generate your own images without worrying about how to write the keywords. The spells have already been cast, guys, and the magic world is waiting for you.
 
