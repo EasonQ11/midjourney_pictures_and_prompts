@@ -13,7 +13,14 @@ I will periodically crawl and package these images and prompts and upload them. 
 ![image](https://user-images.githubusercontent.com/32754688/229363650-94a7388a-559a-466e-93c8-a1e5fc4cad58.png)
 ![image](https://user-images.githubusercontent.com/32754688/229363671-58498a63-144b-4ac6-9fa1-fb10ccdecb00.png)
 
-————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+ excel里有每一张图片的详细prompt关键词
+ 
+ ![image](https://user-images.githubusercontent.com/32754688/229363994-36a326fb-d8a0-4931-8ead-bb862dc6978c.png)
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————
+
 我个人最喜欢的就是这张赛博朋克大卫，附上图片和prompt
 My personal favorite is this Cyberpunk David image,here is the image and prompt.
 
