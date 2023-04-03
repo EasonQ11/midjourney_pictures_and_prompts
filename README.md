@@ -8,6 +8,7 @@ This is a collection of highly rated images and their information, a total of 10
 For those who are new to using midjourney, you can use these prompts to generate your own images without worrying about how to write the keywords. The spells have already been cast, guys, and the magic world is waiting for you.
 
 我不定期会爬取图片和prompt打包传上来，网友们有需要的话我也会上传爬虫代码
+
 I will periodically crawl and package these images and prompts and upload them. If there are any users who need them, I can also upload the web crawler code.
 
 ![image](https://user-images.githubusercontent.com/32754688/229363650-94a7388a-559a-466e-93c8-a1e5fc4cad58.png)
@@ -22,6 +23,7 @@ I will periodically crawl and package these images and prompts and upload them. 
 —————————————————————————————————————————————————————————————————————————————————————————————
 
 我个人最喜欢的就是这张赛博朋克大卫，附上图片和prompt
+
 My personal favorite is this Cyberpunk David image,here is the image and prompt.
 
 
