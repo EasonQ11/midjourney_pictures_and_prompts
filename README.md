@@ -32,7 +32,7 @@ My personal favorite is this Cyberpunk David image,here is the image and prompt.
 prompt：whimsical and amusing scene, Michelangelo's David sculpture as A mecha warrior，VFX, octane render, unreal engine 5, Diffraction Grading, Ray Tracing Reflections, high contrast, Rembrandt Lighting, ultra detailed, 8k --ar 9:16 --quality 2.0  --v 5
 
 
-#**20230404更新**
+# **20230404更新**
  
 上传了20230403爬取的100张相片和prompt。才开始用github，没上传好位置，把更新的内容都放在根目录了。明天的内容重新建个项目吧，弄规范点。
 
